@@ -1,0 +1,49 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Mono', monospace;
+}
+
+div {
+  width: 600px;
+  padding: 50px;
+  text-align: right;
+}
+
+div p.second {
+  text-align: left;
+  text-indent: 25px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  color: rgb(22, 14, 61);
+}
+
+span {
+  color: #ff0000;
+  font-weight: 500;
+}
+
+strong {
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+b {
+  text-decoration: underline;
+}
+
+em {
+  color: #99114b;
+}
+
+i {
+  color: #99114b;
+}

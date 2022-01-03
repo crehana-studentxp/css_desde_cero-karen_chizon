@@ -1,0 +1,22 @@
+body, html {
+  background-color: #8affe2;
+}
+
+.flex {
+  background: #ffffff;
+  display: flex;
+  width: 90vw;
+  height: 90vh;
+  margin: 5vh auto 0;
+  align-self: center;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.flex * {
+  width: 100px;
+  height: 100px;
+  background: #4632fa;
+  margin: 10px;
+}
